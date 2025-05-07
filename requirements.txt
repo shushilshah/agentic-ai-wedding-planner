@@ -1,0 +1,12 @@
+langchain
+openai
+streamlit
+langgraph
+beautifulsoup4
+requests
+pandas
+python-dotenv
+langchain_community
+pydantic
+langchain-google-genai
+google-generativeai
