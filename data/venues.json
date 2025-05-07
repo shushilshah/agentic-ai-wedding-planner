@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Berlin Castle",
+    "location": "Berlin",
+    "capacity": 150,
+    "pricing": "\u20ac5,000+",
+    "services": [
+      "catering",
+      "ceremony space",
+      "DJ"
+    ],
+    "restrictions": "unknown",
+    "verified": true,
+    "verification_notes": "All required fields present"
+  },
+  {
+    "name": "Frankfurt Vineyard",
+    "location": "Frankfurt",
+    "capacity": 150,
+    "pricing": "\u20ac5,000+",
+    "services": [
+      "catering",
+      "ceremony space",
+      "DJ"
+    ],
+    "restrictions": "unknown",
+    "verified": true,
+    "verification_notes": "All required fields present"
+  },
+  {
+    "name": "Lakeview Hall",
+    "location": "unknown",
+    "capacity": 150,
+    "pricing": "\u20ac5,000+",
+    "services": [
+      "catering",
+      "ceremony space",
+      "DJ"
+    ],
+    "restrictions": "None",
+    "verified": true,
+    "verification_notes": "All required fields present"
+  }
+]
